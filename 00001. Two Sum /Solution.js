@@ -19,7 +19,6 @@ var twoSum = function(nums, target) {
             nums2[1] = j ;
             x = true ;
     }
-        
         j++ ;
         }
         return nums2 ;
