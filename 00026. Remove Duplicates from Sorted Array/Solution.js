@@ -14,6 +14,5 @@ var removeDuplicates = function(nums) {
            i--;
         }
     }
-
     return k ;
 };
