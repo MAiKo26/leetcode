@@ -10,7 +10,6 @@ var plusOne = function(digits) {
             return digits;
         }
 
-
         digits[l] = 0 ;
         
                 if (l == 0){
