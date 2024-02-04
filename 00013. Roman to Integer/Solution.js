@@ -26,8 +26,6 @@ console.log(total+" " + s[i]) ;
                 total=total-10;
          else
              total=total+10;
-                     
-        
 
            if (s[i] == "V")
                 total=total+5;
