@@ -4,5 +4,5 @@
  */
 var lengthOfLastWord = function(s) {
     const A = s.trim().split(" ") ;
-    return A[A.length-1].length
+    return A[A.length-1].length;
 };
