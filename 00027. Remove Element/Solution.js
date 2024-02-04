@@ -11,6 +11,5 @@ var removeElement = function(nums, val) {
     }
     
     nums.sort((a, b) => (a > b ? -1 : 0));
-    
     return (nums.length - k);
 };
