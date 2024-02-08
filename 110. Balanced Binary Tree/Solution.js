@@ -25,5 +25,5 @@ function getHeight(root) {
     if(left == -1 || right == -1 || Math.abs(left - right) > 1) {
         return -1;
     }
-    return 1 + Math.max(left, right);
+    return 1 + Math.max(left, right)
 }
